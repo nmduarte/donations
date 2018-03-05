@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/donation-analytics.iml" filepath="$PROJECT_DIR$/donation-analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/donation-analytics-build.iml" filepath="$PROJECT_DIR$/.idea/modules/donation-analytics-build.iml" />
+    </modules>
+  </component>
+</project>
